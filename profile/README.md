@@ -5,7 +5,7 @@ This project explores the dynamic interface between user preferences and platfor
 <div align="center">
   <img 
     style="width: 700px;"
-    src="https://github.com/UserPlatformPolicy/.github/blob/main/UserPlatformChoices.png">
+    src="https://github.com/Decentralidia/.github/blob/main/UserPlatformChoices.png">
 </div>
 
 ### Publications
