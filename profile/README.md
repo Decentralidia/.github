@@ -1,3 +1,19 @@
-## Abstract
+## User Voices, Platform Choices: Social Media Policy Puzzle with Decentralization Salt
 
-In the current digital era, social media platforms wield crucial influence, with the potential for censorship and filtering public opinion according to platform owners' preferences. Considering this risk, in this research, we propose a decentralized social media policy to remedy centralization risks. First, we conducted a preliminary study with 28, 41, and 20 participants in 3 phases. This study illustrates a less than 62\% similarity between the people's suggested policy and the current policy of X (previously Twitter), which motivates us to design an aesthetically similar website to a social media to collect more comprehensive data in a diverse community. In the main experiment, 110 people from diverse backgrounds participated to decide whether specific content should be removed from social media. In this part of our experiment, 546 tweets in 3 categories are investigated, and 3032 records are captured. Furthermore, we propose a transformer-based model to learn the suggested policy of people and achieve a remarkable accuracy of 79\% through ensemble learning, multi-task learning, and bandit problem. Moreover, some metadata analysis revealed that users can understand the differences between disliking content and removing it from social media. Also, by considering the suggested policy of 5 Large Language Models using jail-breakers to circumvent their inherent safeguards in a zero-shot manner, it is illustrated that they cannot be the decision-makers in social media, too, as most of them have less than 50\% in common with people's opinion in blocking content from social media. Finally, we provide a blueprint for a decentralized social media structure, emphasizing fairness and diversity.
+This project explores the dynamic interface between user preferences and platform policies in social media, emphasizing the potential for decentralized policy-making. Our research investigates how varying degrees of decentralization in policy enforcement can affect content moderation practices and user satisfaction. We propose novel methodologies for leveraging user input to create fairer, more transparent social media platforms.
+
+<div align="center">
+  <img 
+    style="width: 700px;"
+    src="https://github.com/UserPlatformPolicy/.github/blob/main/UserPlatformChoices.png">
+</div>
+
+### Publications
+
+This project has contributed to the following academic paper:
+
+1. User Voices, Platform Choices: Social Media Policy Puzzle with Decentralization Salt
+   - Authors: Sina Elahimanesh, Iman Mohammadi, Mohammad Mosayebi, Sara Zahedi Movahed, Hosein Hasani, Mohammad Hossein Rohban
+   - Conference: CHI '24: CHI Conference on Human Factors in Computing Systems
+   - Date: May 2024
+   - DOI: [10.1145/3613905.3650799](https://doi.org/10.1145/3613905.3650799)
